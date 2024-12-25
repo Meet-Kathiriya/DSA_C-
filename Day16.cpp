@@ -78,7 +78,7 @@ int main()
         }
     }
 
-    // cout << "The large element is:- " <<largest<< endl;
+    cout << "The large element is:- " <<largest<< endl;
 
 
 // QUS-3 -------------------------------------------------------  
